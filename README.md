@@ -45,9 +45,7 @@ Code samples for other programming languages are [here](https://github.com/oxyla
 {
     "results": [
         {
-            "content":"<!doctype html>\n<html lang=\"en\">\n<head>
-            ...
-            </script></body>\n</html>\n",
+            "content":"<!doctype html>\n<html lang=\"en\">\n<head>...</script></body>\n</html>\n",
             "created_at": "2023-07-03 15:44:26",
             "updated_at": "2023-07-03 15:44:33",
             "page": 1,
