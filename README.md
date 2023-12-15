@@ -2,7 +2,7 @@
 
 [![Oxylabs promo code](https://user-images.githubusercontent.com/129506779/250792357-8289e25e-9c36-4dc0-a5e2-2706db797bb5.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
 
-With [OpenSea Scraper](https://oxylabs.io/products/scraper-api/web/opensea), you can extract NFT collections, items, prices, images, sales volumes, and more from the leading NFT marketplace on a large scale and block-free
+With [OpenSea Scraper](https://oxylabs.io/products/scraper-api/web/opensea), you can extract NFT collections, items, prices, images, sales volumes, and more from the leading NFT marketplace on a large scale and block-free.
 
 Follow this guide to scrape OpenSea using our [Scraper API](https://oxylabs.io/products/scraper-api). 
 
