@@ -8,7 +8,7 @@ Follow this guide to scrape OpenSea using our [Scraper API](https://oxylabs.io/p
 
 ### How it works
 
-You can receive OpenSea results by providing URLs to our service. The API returns an HTML of any Expedia page.
+You can receive OpenSea results by providing URLs to our service. The API returns an HTML of any OpenSea page.
 
 #### Python code example
 
