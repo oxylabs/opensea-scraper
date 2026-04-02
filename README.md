@@ -61,4 +61,4 @@ Code samples for other programming languages are [here](https://github.com/oxyla
 
 Utilize Oxylabs' OpenSea Scraper to delegate infrastructure management and web unblocking to us, enabling you to focus on the critical elements, namely, data and its analysis.
 
-Should you have any inquiries, feel free to reach out to us at hello@oxylabs.io or engage in live chat through our website.
+Should you have any inquiries, feel free to reach out to us at support@oxylabs.io or engage in live chat through our website.
